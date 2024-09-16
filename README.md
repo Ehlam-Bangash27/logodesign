@@ -1,4 +1,6 @@
-# logodesign
+# project-1
+# Logo Design
+
 Design a professional logo presentation for a company named 'Bigger Stinger,' which creates and distributes action movies. The presentation should include: 
 
 1. Cover Slide : Featuring the title 'My Logo Design' with the designer's name and role (e.g., 'Intern at Codex Cue').
